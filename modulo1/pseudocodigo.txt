@@ -1,0 +1,7 @@
+1. Início;
+2. Leia n;(entrada de dados)
+3. d1:=n-1; (processamento)
+4. d2:=10-n; (processamento)
+5. Resultado:=(d1*10)+d2; (processamento)
+6. Imprima Resultado; (saída de dados)
+7. Fim;

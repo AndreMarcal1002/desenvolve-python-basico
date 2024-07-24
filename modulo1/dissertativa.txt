@@ -1,0 +1,15 @@
+Escolha um número (n) para saber o resultado da multiplicação por 9 (nove);(entrada de dados)
+O digito1 receberá o resultado do número escolhido (n) subtraído do número 1 (Digito1 = n-1); (processamento)
+O digito2 receberá o resultado do número 10 subtraído do número escolhido (n) (Digito2 = 10-n); (processamento)
+Multiplique o digito1 por 10; (processamento)
+O resultado final será a soma do digito2 ao resultado anterior; (processamento)
+Mostre o resultado final; (saída de dados)
+
+Exemplo:
+Número escolhido: n=3
+digito1= 3-1  => digito1= 2;
+digito2= 10-3 => digito2= 7;
+Resultado final= (digito1*10)+digito2;
+Resultado final= 27;
+
+
