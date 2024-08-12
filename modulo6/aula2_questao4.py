@@ -20,13 +20,13 @@ Digite os 6 elementos da lista 2:
 9
 10Lista intercalada: 1 5 2 6 3 7 4 8 9 10
  """
-import random
+#import random
 
 def fPreencheValores(nQtde):
     lLista=[]
     for i in range(nQtde):
-        #lLista.append(int(input("Insira valores na lista: ")))
-        lLista.append( random.randint(0, 10) )
+        lLista.append(int(input("Insira valores na lista: ")))
+        #lLista.append( random.randint(0, 10) )
     return lLista
         
 i=0
